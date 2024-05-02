@@ -2,6 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# WordPress php 編集用ディレクトリ desktop/luphp01 　を参照
+
 ## Available Scripts
 
 In the project directory, you can run:
