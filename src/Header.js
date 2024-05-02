@@ -4,11 +4,11 @@ export default function Header() {
     return (
         <div class="w-[100%] h-[120px] bg-[#232323] text-white flex flex-row justify-between px-8 items-center">
             <div class="text-5xl">React App</div>
-            <nav class="">
+            <nav class="navspace">
                 <ul class="flex flex-row gap-[10px]">        
-                    <li class="rounded-full bg-pink-500 py-2 px-4">
+                    <li class="rounded-full bg-pink-800 py-2 px-4 font-bold tracking-wider">
                         <a href="./" target="_blank" rel="noopener noreferrer">資料請求</a></li>
-                    <li class="rounded-full bg-orange-500 py-2 px-4">
+                    <li class="rounded-full bg-orange-700 py-2 px-4 font-bold">
                         <a href="./" target="_blank" rel="noopener noreferrer">お問い合わせ</a></li> 
                 </ul>
                 <ul class="flex flex-row gap-[20px] justify-between">
